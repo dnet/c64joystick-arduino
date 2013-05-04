@@ -36,7 +36,7 @@ Uploading without Arduino IDE
 Dependencies for arscons build process
 --------------------------------------
 
- - Arduino 1.0+ (if you have an older version, rename `*.{ino -> pde}`)
+ - Arduino libraries 1.0+ (if you have an older version, rename `*.{ino -> pde}`, Debian/Ubuntu package: `arduino-core`)
  - Scons (Debian/Ubuntu package: `scons`)
 
 License
